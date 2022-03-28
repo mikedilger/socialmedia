@@ -98,6 +98,15 @@ services. Competing implementations will improve the system. Lock-in will be pre
 
 There should be a reference FOSS implementation.
 
+### Long term
+
+We should aim to be long term like email. Email is more than 40 years old but it is still
+in use because it is fully distributed and because it became a standard.
+
+We shoudn't worry about where the crowd is today if they are on proprietary non-standardized
+systems.  A good fully distributed standardized system will eventually move the crowd,
+especially if it integrates/aggregates well.
+
 ## Posts
 
 ### Kinds of Posts
@@ -136,10 +145,3 @@ it will be authored by "Abandoned".
 
 The reason we don't like deleting posts is that posts thread, more like Hacker News or
 Reddit, less like Twitter. And conversations become hard to read with missing posts.
-
-
-
-
-
-
-
